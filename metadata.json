@@ -1,0 +1,6 @@
+{
+  "name": "GDGC AIKTC — Google Developer Groups on Campus",
+  "description": "Modern, premium website redesign for GDGC AIKTC. Build, learn, and ship with a community of student developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
